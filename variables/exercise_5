@@ -1,0 +1,2 @@
+1. the first program does not throw an error because x is within scope. x equals 3.
+2. the second program would throw an error because x is out of scope. 
